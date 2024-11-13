@@ -1,8 +1,8 @@
-# React + Vite
+# [Currently-Unamed]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dashboard for UCI students including a task list and a notebook, with a display of the current weather and a motivational quote to start the user's day. We plan on implementing a simple login-based user interface (possibly using a database). The context of the application will be a preview of the user's day.
 
-Currently, two official plugins are available:
+Partners: Yousef Khan and David Kang
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+We will be using React.js + Vite + TailwindCSS + DaisyUI, and are considering using Supabase. 
+
