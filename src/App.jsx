@@ -1,10 +1,14 @@
-import { useState } from "react";
 import "./App.css";
+import Footer from "./components/footer/footer";
+import Login from "./components/login/login";
+import Navbar from "./components/navbar/navbar";
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <Navbar />
+      <Login />
+      <Footer />
     </>
   );
 }
