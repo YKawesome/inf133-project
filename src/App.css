@@ -5,3 +5,20 @@
 .hovergrow:hover {
   transform: scale(1.13);
 }
+
+.borderlessinput:focus {
+  outline: none;
+  border: none;
+}
+
+.nopad {
+  padding: 0;
+}
+
+.incomplete:hover {
+  text-decoration: line-through;
+}
+
+.complete:hover {
+  text-decoration: none;
+}
