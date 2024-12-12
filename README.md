@@ -9,7 +9,7 @@ Technologies Used:
 	•	TailwindCSS + DaisyUI
 	•	Supabase
 
-Installation Guide
+# Installation Guide
 
 ## 1. Prerequisites
 
